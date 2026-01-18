@@ -8,3 +8,11 @@ func main() {
 	eurRUB := usdRUB / usdEUR
 	fmt.Print(eurRUB)
 }
+
+func inputUser() int {
+	var input int
+	fmt.Scan(&input)
+	return input
+}
+
+func summury() {}
