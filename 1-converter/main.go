@@ -15,4 +15,6 @@ func inputUser() int {
 	return input
 }
 
-func summury() {}
+func calculateExchange(amount float64, fromCurrency string, toCurrency string) float64 {
+	return amount
+}
